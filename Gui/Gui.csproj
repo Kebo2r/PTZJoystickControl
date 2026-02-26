@@ -38,4 +38,7 @@
     <ProjectReference Include="..\Core\Core.csproj" />
     <ProjectReference Include="..\SdlGamepads\SdlGamepads.csproj" />
   </ItemGroup>
+  <ItemGroup>
+	<FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
 </Project>
